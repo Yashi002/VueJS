@@ -1,7 +1,7 @@
 <template>
   <div>
       <h1>Axios</h1>
-      <!-- <p>{{apidata.data.data}}</p> -->
+      
       <table class="table">
           <tr>
               <td>Name</td>
